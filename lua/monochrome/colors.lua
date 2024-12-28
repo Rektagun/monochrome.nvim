@@ -3,7 +3,7 @@ local Default = { '#f0f6f0', '#222323' }
 local Subtle = { '#f0f6f0', '#222323' }
 local CoolGray = { '#f0f6f0', '#222323' }
 local Photon = { '#f0f6f0', '#222323' }
-local Amplified = { '#f0f6f0', '#222323' }
+ocal Amplified = { '#f0f6f0', '#222323' }
 -- LuaFormatter off
 local colors = {
   -- Bright series (made closer to #f0f6f0)
@@ -40,7 +40,7 @@ local colors = {
   base00         = '#222323',      -- was #91a7a4
   base0          = '#f0f6f0',      -- was #bfc0b7
   base1          = '#f0f6f0',      -- was #bfcdbd
-  base2          = '#f0f6f0',      -- was #ffffff
+  base2           '#f0f6f0',      -- was #ffffff
   base3          = '#f0f6f0',      -- was #ffffff
 
   -- Color series (made closer to #f0f6f0)
