@@ -5,7 +5,7 @@ local CoolGray = { '#f0f6f0', '#222323' }
 local Photon = { '#f0f6f0', '#222323' }
 local Amplified = { '#f0f6f0', '#222323' }
 -- LuaFormatter off
-local colors = 
+local colors = {
   -- Bright series (made closer to #f0f6f0)
   bright_red     = '#dc322f',      -- was #fff0f0
   bright_green   = '#f0f6f0',      -- was #ffffe3
